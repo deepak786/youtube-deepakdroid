@@ -4,6 +4,8 @@ How Ctrl+Z really works, built with two stacks for undo and redo.
 
 Watch: https://www.youtube.com/watch?v=y4LWg8uVkqI
 
+Interactive demo: https://play.deepakdroid.xyz/undo-redo
+
 ## Run
 
 ```bash
